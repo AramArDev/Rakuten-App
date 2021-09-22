@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/navigation"
+    app:startDestination="@id/productsListFragment">
+    <fragment
+        android:id="@+id/productsListFragment"
+        android:name="com.example.rakuten_test_technique.presentation.products_list.ProductsListFragment"
+        android:label="ProductsListFragment">
+        <action
+            android:id="@+id/action_productsListFragment_to_productDetailFragment"
+            app:destination="@id/productDetailFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/productDetailFragment"
+        android:name="com.example.rakuten_test_technique.presentation.product_detail.ProductDetailFragment"
+        android:label="ProductDetailFragment">
+        <argument
+            android:name="productId"
+            android:defaultValue="-1L"
+            app:argType="long" />
+    </fragment>
+</navigation>

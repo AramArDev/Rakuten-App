@@ -1,0 +1,26 @@
+<resources>
+
+    <string name="app_name">Rakuten</string>
+    <string name="reviews_format">%d reviews</string>
+    <string name="price_format">%s€</string>
+    <string name="old_price_format"><![CDATA[<strike>%s€</strike>]]></string>
+    <string name="percent_format">-%d%%</string>
+    <string name="used_sale_format">Used from <![CDATA[<b>%s€</b>]]></string>
+    <string name="new_sale_format">New from <![CDATA[<b>%s€</b>]]></string>
+    <string name="seller_name_format"><![CDATA[<u>%s</u>]]></string>
+    <string name="pro">PRO</string>
+    <string name="search_in_rakuten">Search in Rakuten</string>
+    <string name="product_image">Product image.</string>
+
+    <string name="tools_text_headline">Samsung Galaxy Z Fold2 5G 256 Go Double SIM Noir mystique</string>
+    <string name="tools_text_reviews">73 reviews</string>
+    <string name="tools_text_price">859€</string>
+    <string name="tools_text_salle_percent_discount">-14%</string>
+    <string name="tools_text_advert_type">New</string>
+    <string name="tools_text_advert_quality">Like new</string>
+    <string name="tools_text_best_price">New from 150€</string>
+    <string name="tools_text_seller_name">Pixel-Tech</string>
+    <string name="tools_text_description">\nFabricant : Samsung\nRéférence fabricant : SM-G991BZVDEUB - SM-G991BZVDEUH\nPoids : 169\nInterface sans fil : NFC\nr\nr\n\nProduit soumis à la Rémunération Pour Copie Privée. En savoir plus\n\nr\n\nVoir le montant de la Rémunération Pour Copie Privée\n\n</string>
+    <string name="tools_text_seller_comment">Carte SIM unique, version US, compatible avec les opérateurs français. Avant l\'expédition, nous vérifierons si le téléphone est en bon état et fournirons un ensemble complet d\'accessoires compatibles français (y compris les prises de charge européennes) + film de protection et coque de téléphone. Remarque: Expédition depuis la Chine, une garantie de 9 à 19 jours ouvrables / un an est fournie.</string>
+
+</resources>
